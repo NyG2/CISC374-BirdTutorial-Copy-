@@ -17,6 +17,7 @@ Sound effects:
 
 4. Incorrect buzzer sound by u_ayf470ljcu from Pixabay
 
-Video
+Video:
+
 In the video where I am playing my prototype, the sound effects are muffled for some reason, but the sound effects are clear when I play without recording.
 
