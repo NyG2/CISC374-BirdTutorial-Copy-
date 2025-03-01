@@ -19,5 +19,6 @@ Sound effects:
 
 Video:
 
-In the video where I am playing my prototype, the sound effects are muffled for some reason, but the sound effects are clear when I play without recording.
+In the video where I am playing my prototype, the sound effects are muffled for some reason, but the sound effects are clear when I play without recording. 
+Also, in the video the bird wing is moving, it can be hard to see in the video(just a heads up).
 
